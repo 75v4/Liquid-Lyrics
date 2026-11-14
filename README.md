@@ -250,14 +250,4 @@ Planned improvements:
 - more performance optimizations
 - more customization options
 - further polish for other themes
-- more fullscreen lyrics improvements
-
-## Credits
-
-Created by NMW.
-
-Built alongside the Glowify and Liquify Spicetify themes.
-
-## License
-
-This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the LICENSE file for details.
+- more fullscreen lyrics improvement
